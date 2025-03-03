@@ -1,0 +1,50 @@
+image_link,entity_name,entity_value,observation
+https://m.media-amazon.com/images/I/71gSRbyXmoL.jpg,item_volume,1.0 cup,True
+https://m.media-amazon.com/images/I/61wzlucTREL.jpg,item_volume,4.0 gallon,True
+https://m.media-amazon.com/images/I/61AHQ35poHL.jpg,item_volume,10.0 ounce,True
+https://m.media-amazon.com/images/I/61-oj+N+BxL.jpg,item_volume,30.0 millilitre,True
+https://m.media-amazon.com/images/I/71e6kJLE+LL.jpg,item_volume,30.0 millilitre,True
+https://m.media-amazon.com/images/I/71SuzaRS7gL.jpg,item_volume,30.0 millilitre,True
+https://m.media-amazon.com/images/I/71nsfFCXF0L.jpg,item_volume,30.0 millilitre,True
+https://m.media-amazon.com/images/I/71hgN7yu9OL.jpg,item_volume,30.0 millilitre,True
+https://m.media-amazon.com/images/I/61eOO5IW4NL.jpg,item_volume,3.0 cubic foot,False
+https://m.media-amazon.com/images/I/71PDbPb275L.jpg,item_volume,500.0 millilitre,False
+https://m.media-amazon.com/images/I/41Kn+YOyPjL.jpg,item_volume,10.0 millilitre,True
+https://m.media-amazon.com/images/I/51q9OE6hfgL.jpg,item_volume,200.0 millilitre,True
+https://m.media-amazon.com/images/I/61lE-I9cVuL.jpg,item_volume,25.0 millilitre,False
+https://m.media-amazon.com/images/I/71P0BToikAL.jpg,item_volume,"[8.0, 12.0] fluid ounce",True
+https://m.media-amazon.com/images/I/71pKB7-3itL.jpg,item_volume,16.0 fluid ounce,False
+https://m.media-amazon.com/images/I/81cEIIPti-L.jpg,item_volume,4.0 fluid ounce,True
+https://m.media-amazon.com/images/I/71ciI6RbOqL.jpg,item_volume,4.0 fluid ounce,True
+https://m.media-amazon.com/images/I/816L-kPJGyL.jpg,item_volume,4.0 fluid ounce,True
+https://m.media-amazon.com/images/I/7185b+0uzML.jpg,item_volume,0.7 millilitre,True
+https://m.media-amazon.com/images/I/71In1fvGSwL.jpg,item_volume,4.0 fluid ounce,True
+https://m.media-amazon.com/images/I/81hbfdu3UaL.jpg,item_volume,3.0 millilitre,False
+https://m.media-amazon.com/images/I/81+ZDpWM6aL.jpg,item_volume,1977.0 decilitre,False
+https://m.media-amazon.com/images/I/91yjUjUz1PL.jpg,item_volume,100.0 millilitre,False
+https://m.media-amazon.com/images/I/61iyjkBOWwL.jpg,item_volume,100.0 millilitre,True
+https://m.media-amazon.com/images/I/81bWfMuySqL.jpg,item_volume,100.0 millilitre,True
+https://m.media-amazon.com/images/I/6186qz73QDL.jpg,item_volume,2.55 cubic inch,False
+https://m.media-amazon.com/images/I/81JoUrtkpmL.jpg,item_volume,1.69 fluid ounce,True
+https://m.media-amazon.com/images/I/81VXdzB0RVL.jpg,item_volume,64.0 fluid ounce,True
+https://m.media-amazon.com/images/I/819iiEopcWL.jpg,item_volume,8.0 fluid ounce,True
+https://m.media-amazon.com/images/I/81OYyqNGOmL.jpg,item_volume,8.0 fluid ounce,True
+https://m.media-amazon.com/images/I/811QUiTwekL.jpg,item_volume,8.0 fluid ounce,True
+https://m.media-amazon.com/images/I/51YdPlXffPL.jpg,item_volume,2007.0 gallon,False
+https://m.media-amazon.com/images/I/51eGoOSfx4L.jpg,item_volume,2006.0 gallon,False
+https://m.media-amazon.com/images/I/61Fxk72idwL.jpg,item_volume,2007.0 gallon,True
+https://m.media-amazon.com/images/I/41zNB8ZshmL.jpg,item_volume,200.0 millilitre,True
+https://m.media-amazon.com/images/I/61sYpkCc8gL.jpg,item_volume,1.0 litre,True
+https://m.media-amazon.com/images/I/71-q0hAgSSL.jpg,item_volume,200.0 millilitre,True
+https://m.media-amazon.com/images/I/91+No1yJ4tL.jpg,item_volume,"[70.0, 100.0] millilitre",False
+https://m.media-amazon.com/images/I/71mCI1CckQL.jpg,item_volume,699.0 litre,False
+https://m.media-amazon.com/images/I/71mVVuk+3+L.jpg,item_volume,100.0 millilitre,False
+https://m.media-amazon.com/images/I/61OAxi2VMaL.jpg,item_volume,30.0 millilitre,False
+https://m.media-amazon.com/images/I/619+PT-LlsL.jpg,item_volume,128.0 fluid ounce,True
+https://m.media-amazon.com/images/I/717iuHuDG4L.jpg,item_volume,128.0 fluid ounce,True
+https://m.media-amazon.com/images/I/61pfSJr2FmL.jpg,item_volume,10.0 millilitre,True
+https://m.media-amazon.com/images/I/61kIRPnUnVL.jpg,item_volume,10.0 millilitre,True
+https://m.media-amazon.com/images/I/71MnmIz6W1L.jpg,item_volume,10.0 millilitre,True
+https://m.media-amazon.com/images/I/71AKNNbNDBL.jpg,item_volume,10.0 millilitre,True
+https://m.media-amazon.com/images/I/51k7GMS8dgL.jpg,depth,21.0 centimetre,True
+https://m.media-amazon.com/images/I/81KfxXADuIL.jpg,item_volume,250.0 millilitre,True
